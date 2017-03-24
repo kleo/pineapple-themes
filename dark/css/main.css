@@ -1,0 +1,144 @@
+.scrollable-pre {
+    overflow: auto;
+    word-wrap: normal;
+    white-space: pre;
+}
+
+.log-pre {
+    max-height: 300px;
+}
+
+.btn-fixed-length {
+    width: 70px;
+}
+
+.padding-left {
+    margin-left: 10px;
+}
+
+.select-inline {
+    font-weight: normal;
+}
+
+body {
+    background-color: #070707;
+}
+
+.logout {
+    cursor: pointer;
+}
+
+.module-nav li a {
+    margin-left: 30px;
+}
+
+.module-nav li:hover {
+    background-color: #111;
+}
+
+.sidebar .sidebar-nav.navbar-collapse {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.sidebar ul li {
+    cursor: pointer;
+    border-bottom: 1px solid #181818;
+}
+
+.sidebar .active {
+    background-color: #111;
+}
+
+@media(min-width:768px) {
+    .sidebar {
+        z-index: 1;
+        position: absolute;
+        width: 250px;
+        margin-top: 51px;
+    }
+
+    .module-content {
+        position: inherit;
+        margin: 0 0 0 250px;
+        padding: 15px 30px;
+        border-left: 1px solid #181818;
+    }
+
+    .navbar-top-links {
+        margin-left: 10px;
+    }
+}
+
+.navbar-top-links {
+    margin-right: 5px;
+    margin-left: 10px;
+}
+
+.navbar-top-links li {
+    display: inline-block;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.navbar-top-links .dropdown-menu li {
+    display: block;
+}
+
+.module-content {
+    padding: 15px 15px;
+    background-color: #000;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.dropdown-menu {
+    cursor: pointer;
+}
+
+.dropdown-menu-top {
+    max-height: 300px !important;
+    overflow-y: auto !important;
+}
+
+@media(max-width:768px) {
+    .dropdown-menu-top {
+        margin: auto !important;
+        position: absolute !important;
+        background-color: #000 !important;
+        word-wrap: break-word !important;
+        border: 1px solid #333 !important;
+        width: 300px !important;
+        max-width: 300px !important;
+    }
+    .dropdown-menu-top li a {
+        white-space: normal !important;
+    }
+
+    .dropdown-menu-logout {
+        max-width: 50px !important;
+    }
+}
+
+.login-logo {
+    margin: 0 auto;
+    padding-bottom: 10px;
+    max-width: 150px;
+}
+
+.brand-logo {
+    content: url('/img/logo.png');
+    max-height: 30px;
+    padding-bottom: 5px;
+}
+
+.brand-text::after {
+    content: "WiFi Pineapple";
+    padding-top: 3px;
+    padding-left: 5px;
+    float: right;
+}
