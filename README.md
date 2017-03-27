@@ -1,12 +1,15 @@
-## Pineapple Themes
-
-Themes for the Wifi Pineapple
+## Wifi Pineapple - Themes
 
 ### Dark Theme 
 
-[Screenshot](http://i.imgur.com/qbS3UEt.png)
+**Install:** 
+```
+wget -qO- https://raw.githubusercontent.com/kbeflo/pineapple-themes/master/dark/install-dark.sh | bash
+```
+**Screenshots:**
 
-Install: `wget -qO- https://raw.githubusercontent.com/kbeflo/pineapple-themes/master/dark/install-dark.sh | bash`
+<img src="http://i.imgur.com/iXfv19Z.png" alt="" width="425" height="213"> <img src="http://i.imgur.com/vFiT1yq.png" alt="" width="425" height="213">
+<img src="http://i.imgur.com/yB8m9UN.png" alt="" width="425" height="213"> <img src="http://i.imgur.com/Gi8zZIo.png" alt="" width="425" height="213">
 
 ---
 
