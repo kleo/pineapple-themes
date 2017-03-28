@@ -13,8 +13,10 @@ wget -qO- https://raw.githubusercontent.com/kbeflo/pineapple-themes/master/dark/
 
 ---
 
+Distributed under the GNU GENERAL PUBLIC LICENSE v3. See [LICENSE](https://github.com/kbeflo/pineapple-themes/blob/master/LICENSE) for more information.
+
 Discussion thread - [Hak5 Forums](https://forums.hak5.org/index.php?/topic/40528-wifi-pineapple-themes/)
 
 Kleo Bercero - [@kbeflo](https://twitter.com/kbeflo) - [My website](https://kerberos.me/)
 
-Distributed under the GNU GENERAL PUBLIC LICENSE v2. See [LICENSE](https://github.com/kbeflo/pineapple-themes/blob/master/LICENSE) for more information.
+Support me on - [Patreon](https://www.patreon.com/kbeflo)
