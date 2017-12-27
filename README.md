@@ -17,6 +17,6 @@ Distributed under the GNU GENERAL PUBLIC LICENSE v3. See [LICENSE](https://githu
 
 Discussion thread - [Hak5 Forums](https://forums.hak5.org/index.php?/topic/40528-wifi-pineapple-themes/)
 
-Kleo Bercero - [@kbeflo](https://twitter.com/kbeflo) - [My website](https://kerberos.me/)
-
 Support me on - [Patreon](https://www.patreon.com/kbeflo)
+
+[Kleo Bercero](https://kbeflo.github.io/)
