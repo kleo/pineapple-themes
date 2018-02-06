@@ -67,7 +67,7 @@
             <ul class="nav sidebar-nav">
                 <li ng-repeat-start="systemModule in systemModules" ng-class="getClass(systemModule.name)" module="{{ systemModule.name }}"><a href="#!/modules/{{ systemModule.name }}"><img class="module-icon" ng-src="{{ systemModule.icon }}" ng-if="systemModule.icon != null"> {{ systemModule.title }}</a></li>
                 <li ng-if="$index == 3" ng-repeat-end>
-                    <a ng-class="getModuleClass()" onclick="$('.module-nav').collapse('toggle')" href=''><img class="module-icon" src="/modules/ModuleManager/module_icon.svg"> Modules <span class="caret"></span></a>
+                    <a ng-class="getModuleClass()" onclick="$('.module-nav').collapse('toggle')" href=''> Modules <span class="caret"></span></a>
                     <ul class="nav module-nav collapse">
                         <li ng-class="getClass('ModuleManager')" module="ModuleManager"><a href="#!/modules/ModuleManager">Manage Modules</a></li>
                         <li ng-class="getClass(userModule.name)" ng-repeat="userModule in userModules" module="{{ userModule.name }}"><a href="#!/modules/{{ userModule.name }}"><img class="module-icon" ng-src="{{ userModule.icon }}" ng-if="userModule.icon != null"/> {{ userModule.title }}</a></li>
