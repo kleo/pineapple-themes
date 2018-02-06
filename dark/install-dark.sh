@@ -1,4 +1,5 @@
 #!/bin/bash
+echo
 echo -e "Backing up WiFi Pineapple Default Theme\n"
 mkdir /root/.default-theme-backup
 mkdir /root/.default-theme-backup/css
@@ -19,6 +20,7 @@ mkdir /root/.default-theme-backup/modules/Recon
 mkdir /root/.default-theme-backup/modules/Reporting
 mkdir /root/.default-theme-backup/modules/Tracking
 
+cp /pineapple/index.html /root/.default-theme-backup/index.html
 cp /pineapple/css/bootstrap.min.css /root/.default-theme-backup/css/bootstrap.min.css
 cp /pineapple/css/main.css /root/.default-theme-backup/css/main.css
 cp /pineapple/img/logo.png /root/.default-theme-backup/img/logo.png
@@ -38,9 +40,15 @@ cp /pineapple/modules/Recon/module_icon.svg /root/.default-theme-backup/modules/
 cp /pineapple/modules/Reporting/module_icon.svg /root/.default-theme-backup/modules/Reporting/module_icon.svg
 cp /pineapple/modules/Tracking/module_icon.svg /root/.default-theme-backup/modules/Tracking/module_icon.svg
 
-echo -e "Default theme backup is stored on /root/.default-theme-backup\n"
+echo -e "Restore default theme using /root/restore.sh\n"
+cat > restore.sh << EOF
+cp -r /root/.default-theme-backup/* /pineapple/
+rm -rf /root/.default-theme-backup
+rm restore.sh
+EOF
 
 echo -e "Installing WiFi Pineapple Dark Theme\n"
+wget -q https://raw.githubusercontent.com/kbeflo/pineapple-themes/master/dark/index.html -O /pineapple/index.html
 wget -q https://raw.githubusercontent.com/kbeflo/pineapple-themes/master/dark/css/bootstrap.min.css -O /pineapple/css/bootstrap.min.css
 wget -q https://raw.githubusercontent.com/kbeflo/pineapple-themes/master/dark/css/main.css -O /pineapple/css/main.css
 wget -q https://raw.githubusercontent.com/kbeflo/pineapple-themes/master/dark/img/logo.png -O /pineapple/img/logo.png
@@ -61,5 +69,4 @@ rm /pineapple/modules/Reporting/module_icon.svg
 rm /pineapple/modules/Tracking/module_icon.svg
 
 echo -e "Installation complete\n"
-
 exit 0
