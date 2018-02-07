@@ -1,4 +1,4 @@
-## Wifi Pineapple - Themes
+## WiFi Pineapple - Themes
 
 ### Dark Theme 
 
@@ -8,8 +8,9 @@ wget -qO- https://raw.githubusercontent.com/kbeflo/pineapple-themes/master/dark/
 ```
 **Screenshots:**
 
-<img src="http://i.imgur.com/iXfv19Z.png" alt="" width="425" height="213"> <img src="http://i.imgur.com/vFiT1yq.png" alt="" width="425" height="213">
-<img src="http://i.imgur.com/yB8m9UN.png" alt="" width="425" height="213"> <img src="http://i.imgur.com/Gi8zZIo.png" alt="" width="425" height="213">
+<img src="https://i.imgur.com/1iSdkKb.png" alt="" width="425" height="213"> <img src="https://i.imgur.com/zy9MQbI.png" alt="" width="425" height="213">
+<img src="https://i.imgur.com/JlMncPJ.png" alt="" width="425" height="213"> <img src="https://i.imgur.com/BMLPXne.png" alt="" width="425" height="213">
+<img src="https://i.imgur.com/03VC6Ly.png" alt="" width="425" height="213"> <img src="https://i.imgur.com/twQdxm6.png" alt="" width="425" height="213">
 
 ---
 
