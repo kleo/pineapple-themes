@@ -452,3 +452,33 @@ tr:hover td {
     color: #777;
     background-color: #131313;
 }
+
+.btn-info {
+    color: #c6c6c6;
+    background-color: #010101;
+    border-color: #454545;
+}
+
+.btn-info:hover {
+    color: #c6c6c6;
+    background-color: #131313;
+    border-color: #767676;
+}
+
+.btn-info.active, .btn-info:active {
+    color: #c6c6c6;
+    background-color: #010101;
+    border-color: #212121;
+}
+
+.btn-info.focus, .btn-info:focus {
+    color: #c6c6c6;
+    background-color: #010101;
+    border-color: #212121;
+}
+
+.btn-info.active.focus, .btn-info.active:focus, .btn-info.active:hover, .btn-info:active.focus, .btn-info:active:focus, .btn-info:active:hover, .open>.dropdown-toggle.btn-info.focus, .open>.dropdown-toggle.btn-info:focus, .open>.dropdown-toggle.btn-info:hover {
+    color: #212121;
+    background-color: #010101;
+    border-color: #171717;
+}
