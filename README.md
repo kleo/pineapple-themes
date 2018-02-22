@@ -8,9 +8,9 @@ wget -qO- https://raw.githubusercontent.com/kbeflo/pineapple-themes/master/dark/
 ```
 **Screenshots:**
 
-<img src="https://i.imgur.com/1iSdkKb.png" alt="" width="425" height="213"> <img src="https://i.imgur.com/zy9MQbI.png" alt="" width="425" height="213">
-<img src="https://i.imgur.com/JlMncPJ.png" alt="" width="425" height="213"> <img src="https://i.imgur.com/BMLPXne.png" alt="" width="425" height="213">
-<img src="https://i.imgur.com/03VC6Ly.png" alt="" width="425" height="213"> <img src="https://i.imgur.com/twQdxm6.png" alt="" width="425" height="213">
+<img src="https://user-images.githubusercontent.com/13497504/36517938-56f6bfdc-17bf-11e8-891b-7359b7d05896.png" alt="" width="425" height="213"> <img src="https://user-images.githubusercontent.com/13497504/36517939-572a8a06-17bf-11e8-967b-8cac9f6c1114.png" alt="" width="425" height="213">
+<img src="https://user-images.githubusercontent.com/13497504/36517940-575bc94a-17bf-11e8-99fc-0b4d05677a44.png" alt="" width="425" height="213"> <img src="https://user-images.githubusercontent.com/13497504/36517941-578c98ea-17bf-11e8-84f7-6cf06e7b89c9.png" alt="" width="425" height="213">
+<img src="https://user-images.githubusercontent.com/13497504/36517942-57ba8d90-17bf-11e8-92d9-f7790e7111cf.png" alt="" width="425" height="213"> <img src="https://user-images.githubusercontent.com/13497504/36517943-57e76d06-17bf-11e8-8b06-07e8eb874646.png" alt="" width="425" height="213">
 
 ---
 
