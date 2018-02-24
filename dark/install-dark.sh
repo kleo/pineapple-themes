@@ -1,6 +1,11 @@
 #!/bin/bash
 echo
 echo -e "Backing up WiFi Pineapple Default Theme\n"
+
+if [ -d "/root/.default-theme-backup" ]; then
+rm -rf /root/.default-theme-backup
+fi
+
 mkdir /root/.default-theme-backup
 mkdir /root/.default-theme-backup/css
 mkdir /root/.default-theme-backup/img
