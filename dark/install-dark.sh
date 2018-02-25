@@ -45,7 +45,6 @@ cp /pineapple/modules/Recon/module_icon.svg /root/.default-theme-backup/modules/
 cp /pineapple/modules/Reporting/module_icon.svg /root/.default-theme-backup/modules/Reporting/module_icon.svg
 cp /pineapple/modules/Tracking/module_icon.svg /root/.default-theme-backup/modules/Tracking/module_icon.svg
 
-echo -e "Restore default theme using /root/restore.sh\n"
 cat > restore.sh << EOF
 cp -r /root/.default-theme-backup/* /pineapple/
 rm -rf /root/.default-theme-backup
@@ -74,4 +73,7 @@ rm /pineapple/modules/Reporting/module_icon.svg
 rm /pineapple/modules/Tracking/module_icon.svg
 
 echo -e "Installation complete\n"
+
+echo -e "Restore default theme using /root/restore.sh\n"
+
 exit 0
