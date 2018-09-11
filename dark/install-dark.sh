@@ -19,8 +19,8 @@ mkdir /root/.default-theme-backup/modules/Help
 mkdir /root/.default-theme-backup/modules/Logging
 mkdir /root/.default-theme-backup/modules/ModuleManager
 mkdir /root/.default-theme-backup/modules/Networking
+mkdir /root/.default-theme-backup/modules/Notes
 mkdir /root/.default-theme-backup/modules/PineAP
-mkdir /root/.default-theme-backup/modules/Profiling
 mkdir /root/.default-theme-backup/modules/Recon
 mkdir /root/.default-theme-backup/modules/Reporting
 mkdir /root/.default-theme-backup/modules/Tracking
@@ -39,8 +39,8 @@ cp /pineapple/modules/Help/module_icon.svg /root/.default-theme-backup/modules/H
 cp /pineapple/modules/Logging/module_icon.svg /root/.default-theme-backup/modules/Logging/module_icon.svg
 cp /pineapple/modules/ModuleManager/module_icon.svg /root/.default-theme-backup/modules/ModuleManager/module_icon.svg
 cp /pineapple/modules/Networking/module_icon.svg /root/.default-theme-backup/modules/Networking/module_icon.svg
+cp /pineapple/modules/Notes/module_icon.svg /root/.default-theme-backup/modules/Notes/module_icon.svg
 cp /pineapple/modules/PineAP/module_icon.svg /root/.default-theme-backup/modules/PineAP/module_icon.svg
-cp /pineapple/modules/Profiling/module_icon.svg /root/.default-theme-backup/modules/Profiling/module_icon.svg
 cp /pineapple/modules/Recon/module_icon.svg /root/.default-theme-backup/modules/Recon/module_icon.svg
 cp /pineapple/modules/Reporting/module_icon.svg /root/.default-theme-backup/modules/Reporting/module_icon.svg
 cp /pineapple/modules/Tracking/module_icon.svg /root/.default-theme-backup/modules/Tracking/module_icon.svg
@@ -57,6 +57,7 @@ wget -q https://raw.githubusercontent.com/kbeflo/pineapple-themes/master/dark/cs
 wget -q https://raw.githubusercontent.com/kbeflo/pineapple-themes/master/dark/css/main.css -O /pineapple/css/main.css
 wget -q https://raw.githubusercontent.com/kbeflo/pineapple-themes/master/dark/img/logo.png -O /pineapple/img/logo.png
 
+# Comment block out if you don't want to get rid of the icons
 rm /pineapple/modules/Advanced/module_icon.svg
 rm /pineapple/modules/Clients/module_icon.svg
 rm /pineapple/modules/Configuration/module_icon.svg
@@ -66,8 +67,8 @@ rm /pineapple/modules/Help/module_icon.svg
 rm /pineapple/modules/Logging/module_icon.svg
 rm /pineapple/modules/ModuleManager/module_icon.svg
 rm /pineapple/modules/Networking/module_icon.svg
+rm /pineapple/modules/Notes/module_icon.svg
 rm /pineapple/modules/PineAP/module_icon.svg
-rm /pineapple/modules/Profiling/module_icon.svg
 rm /pineapple/modules/Recon/module_icon.svg
 rm /pineapple/modules/Reporting/module_icon.svg
 rm /pineapple/modules/Tracking/module_icon.svg
