@@ -1,5 +1,7 @@
 ## WiFi Pineapple - Themes
 
+![](https://img.shields.io/github/license/kbeflo/pineapple-themes.svg?style=flat-square) [![HitCount](http://hits.dwyl.io/kbeflo/pineapple-themes.svg)](http://hits.dwyl.io/kbeflo/pineapple-themes)
+
 ### Dark Theme 
 
 **Install:** 
@@ -18,6 +20,6 @@ Distributed under the GNU GENERAL PUBLIC LICENSE v3. See [LICENSE](https://githu
 
 Discussion thread - [Hak5 Forums](https://forums.hak5.org/index.php?/topic/40528-wifi-pineapple-themes/)
 
-<a href='https://ko-fi.com/kbeflo' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi5.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+[![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://paypal.me/kbeflo)
 
 [Kleo Bercero](https://kbeflo.github.io/)
