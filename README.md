@@ -20,6 +20,6 @@ Distributed under the GNU GENERAL PUBLIC LICENSE v3. See [LICENSE](https://githu
 
 Discussion thread - [Hak5 Forums](https://forums.hak5.org/index.php?/topic/40528-wifi-pineapple-themes/)
 
-[![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://paypal.me/kbeflo)
+[Donate](https://paypal.me/kbeflo)
 
 [Kleo Bercero](https://kbeflo.github.io/)
