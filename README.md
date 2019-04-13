@@ -2,6 +2,12 @@
 
 ![](https://img.shields.io/github/license/kbeflo/pineapple-themes.svg?style=flat-square) [![HitCount](http://hits.dwyl.io/kbeflo/pineapple-themes.svg)](http://hits.dwyl.io/kbeflo/pineapple-themes)
 
+### Theme module
+
+Multiple themes available. Theme module created by [trashbo4t](https://github.com/trashbo4t) can be found on the WiFi Pineapple Modules Manager.
+
+Repository: https://github.com/trashbo4t/wifi-pineapple-themes
+
 ### Dark Theme 
 
 **Install:** 
