@@ -1,6 +1,6 @@
 ## WiFi Pineapple - Themes
 
-![](https://img.shields.io/github/license/kbeflo/pineapple-themes.svg?style=flat-square) [![HitCount](http://hits.dwyl.io/kbeflo/pineapple-themes.svg)](http://hits.dwyl.io/kbeflo/pineapple-themes)
+![](https://img.shields.io/github/license/kbeflo/pineapple-themes.svg?style=flat-square)
 
 ### Theme module
 
