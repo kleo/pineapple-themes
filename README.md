@@ -1,18 +1,16 @@
 ## WiFi Pineapple - Themes
 
-![](https://img.shields.io/github/license/kbeflo/pineapple-themes.svg?style=flat-square)
-
 ### Theme module
 
-Multiple themes available. Theme module created by [trashbo4t](https://github.com/trashbo4t) can be found on the WiFi Pineapple Modules Manager.
+Multiple themes available. Theme module created by [pidgy](https://github.com/pidgy) can be found on the WiFi Pineapple Modules Manager.
 
-Repository: https://github.com/trashbo4t/wifi-pineapple-themes
+Repository: https://github.com/pidgy/wifi-pineapple-themes
 
 ### Dark Theme 
 
 **Install:** 
 ```
-wget -qO- https://raw.githubusercontent.com/kbeflo/pineapple-themes/master/dark/install-dark.sh | bash
+wget -qO- https://raw.githubusercontent.com/kleo/pineapple-themes/master/dark/install-dark.sh | bash
 ```
 **Screenshots:**
 
@@ -22,10 +20,6 @@ wget -qO- https://raw.githubusercontent.com/kbeflo/pineapple-themes/master/dark/
 
 ---
 
-Distributed under the GNU GENERAL PUBLIC LICENSE v3. See [LICENSE](https://github.com/kbeflo/pineapple-themes/blob/master/LICENSE) for more information.
+Distributed under the GNU GENERAL PUBLIC LICENSE v3. See [LICENSE](https://github.com/kleo/pineapple-themes/blob/master/LICENSE) for more information.
 
 Discussion thread - [Hak5 Forums](https://forums.hak5.org/index.php?/topic/40528-wifi-pineapple-themes/)
-
-[Donate](https://paypal.me/kbeflo)
-
-[Kleo Bercero](https://kbeflo.github.io/)

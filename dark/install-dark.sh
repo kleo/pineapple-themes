@@ -52,10 +52,10 @@ rm restore.sh
 EOF
 
 echo -e "Installing WiFi Pineapple Dark Theme\n"
-wget -q https://raw.githubusercontent.com/kbeflo/pineapple-themes/master/dark/index.html -O /pineapple/index.html
-wget -q https://raw.githubusercontent.com/kbeflo/pineapple-themes/master/dark/css/bootstrap.min.css -O /pineapple/css/bootstrap.min.css
-wget -q https://raw.githubusercontent.com/kbeflo/pineapple-themes/master/dark/css/main.css -O /pineapple/css/main.css
-wget -q https://raw.githubusercontent.com/kbeflo/pineapple-themes/master/dark/img/logo.png -O /pineapple/img/logo.png
+wget -q https://raw.githubusercontent.com/kleo/pineapple-themes/master/dark/index.html -O /pineapple/index.html
+wget -q https://raw.githubusercontent.com/kleo/pineapple-themes/master/dark/css/bootstrap.min.css -O /pineapple/css/bootstrap.min.css
+wget -q https://raw.githubusercontent.com/kleo/pineapple-themes/master/dark/css/main.css -O /pineapple/css/main.css
+wget -q https://raw.githubusercontent.com/kleo/pineapple-themes/master/dark/img/logo.png -O /pineapple/img/logo.png
 
 # Comment block out if you don't want to get rid of the icons
 rm /pineapple/modules/Advanced/module_icon.svg
